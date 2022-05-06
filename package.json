@@ -1,0 +1,23 @@
+{
+  "name": "Book-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buriad/Book-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Buriad/Book-management/issues"
+  },
+  "homepage": "https://github.com/Buriad/Book-management#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
