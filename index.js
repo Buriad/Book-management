@@ -7,7 +7,7 @@ const app = express();
 
 app.use(express.json());
 
-app.get('/route', function (req, res) {
+app.get('./data/book.json', function (req, res) {
     res.render('index');
 });
 
